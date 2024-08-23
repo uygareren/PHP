@@ -1,0 +1,6 @@
+RewriteEngine on 
+
+RewriteRule ^sahin$ index.php
+RewriteRule ^uygar$ selam.php
+
+

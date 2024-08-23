@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Kisiler>
+    <Kisi>
+        <isim>Uygar</isim>,
+        <soyisim>Eren</soyisim>
+        <yas>25</yas>
+    </Kisi>
+    <Kisi>
+        <isim>Ahmet</isim>,
+        <soyisim>Eren</soyisim>
+        <yas>25</yas>
+    </Kisi>
+    <Kisi>
+        <isim>Mustafa</isim>,
+        <soyisim>Eren</soyisim>
+        <yas>25</yas>
+    </Kisi>
+</Kisiler>

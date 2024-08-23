@@ -1,0 +1,19 @@
+[
+    {
+    "name":  "Uygar",
+    "surname": "Eren",
+    "age" : 26
+    },
+
+    {
+        "name":  "Ahmet",
+        "surname": "eren",
+        "age" : 27
+    },
+
+    {
+        "name":  "mustafa",
+        "surname": "eren",
+        "age" : 28
+    }
+]

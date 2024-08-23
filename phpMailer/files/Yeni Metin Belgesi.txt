@@ -1,0 +1,6 @@
+python
+object orianted
+Data Structures and Algorithms	
+Design and Analysis of Algorithms	
+Operating Systems	
+Programming Language Concepts	

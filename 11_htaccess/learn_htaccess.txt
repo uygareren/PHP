@@ -1,0 +1,16 @@
+Options -Indexes  =>    dizinin listelenmesini engeller..
+
+deny from all     =>  dosyalarının tamamen açılmasını engeller..
+
+allow from (IP ADRESS)   => dosyalara erişim yasaklandığın burda belirtilen ıp adress ile yalnızca erişilebilinir.
+
+<Files iletisim.php>
+deny from all              =>  sadece bu dosyanın erişimi engellenir..
+</Files>
+
+
+RewriteEngine on 
+
+RewriteRule ^sahin$ index.php
+
+
